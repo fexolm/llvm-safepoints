@@ -1,0 +1,1 @@
+add_executable(mlir-example main.cpp)
